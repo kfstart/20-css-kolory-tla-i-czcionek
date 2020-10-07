@@ -31,6 +31,22 @@
     text-align: justify;
 }
 
-ol{
+#it1{
+    color: blueviolet;
+}
+
+#it2{
+    color: chocolate;
+}
+
+#it3{
+    color: darkolivegreen;
+}
+
+#it4{
+    color: dodgerblue;
+}
+
+#it5{
     color: red;
 }
