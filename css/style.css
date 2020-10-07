@@ -1,0 +1,36 @@
+#page{
+    width: 1000px;
+    height: 447px;
+    background-color: rgba(220,220,220,1.0);
+    padding-top: 3px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#main-tittle{
+    color: darkblue;
+    margin-left: 20px;
+}
+
+#p1{
+    color: darkgoldenrod;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+#tittle2{
+    color: green;
+    margin-left: 20px;
+}
+
+#p2{
+    color: maroon;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+ol{
+    color: red;
+}
